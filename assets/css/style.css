@@ -1,0 +1,77 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C
+}
+a{
+    text-decoration: none;
+}
+.red{
+    color: #dc3545;
+}
+.navbar-brand,
+footer p{
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+}
+
+.bg-black-light{
+    background-color: #373a3c;
+} 
+
+hr{
+    background: #000000;
+}
+
+.btn-transparency{
+    border: 1px solid #dddddd;
+    color: #373A3C;
+    background: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.relative{
+    display: block;
+    position: relative;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #373A3C;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+} 
+
+.description-food h1{
+    font-size: 40px;
+}
+
+.description-food p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.description-food h1,
+.related-recipes h2{
+    font-weight: bold;
+}
+
+.food-preparation p{
+    font-size: 20px;
+}
+.food-preparation h3{
+    font-size: 20px;
+    border-bottom: 1px solid;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.related-recipes .card-title{
+    font-size: 23px;
+}
+
+footer p{
+    margin: 0;
+    color: #ffffff;
+}
